@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<body>
+  <h1>Making Toast</h1>
+    <p>This procedure takes you through how to make toast. Bread goes in, toast comes out.</p>
+	<ol type="1">
+                <li>Make sure your toaster is safely away from water or any other hazards.</li>
+                <li>Plug in your toaster.</li>
+                <li>Set your toaster dials to your preferred heat and timing settings. </li>
+                <li>Place the slices of your favorite bread (or other baked goods!) into the slots
+                    of the toaster. You can also toast:</li>
+		  <ul>
+		    <li>waffles</li>
+		    <li>english muffins</li>
+		    <li>bagels</li>
+		    <li>crumpets</li>
+		    <li>as long as it doesn't have liquid that is a hazard to your toaster - the possibilites are endless!</li>
+		  </ul>
+                <li>Push the slider of the toaster down. This pushes the bread into the toaster.
+                    Make sure that the bread goes fully into the toaster for fully toasted
+                    bread.</li>
+                <li>Watch (and smell) that your toast is progressing the way you like it. If you
+                    think the bread is getting too dark or overdone, press the clear button or lift
+                    the slider of your toaster.</li>
+                <li>As soon as the timer is finished, the toast and slider pop up. </li>
+                <li>Take the toast out of the toaster. Be careful - it'll be very hot! Ensure you do
+                    not put any metal implements into the toaster. Yes, even if the bread gets
+                    stuck.</li>
+                <li>Slather on your topping of choice and enjoy your lovely toast!</li>
+                <li>You don't have to - but it's always safe to unplug the toaster after you're
+                    finished making your yummy toast!</li>
+            </ol>
+</body>
+</html>
